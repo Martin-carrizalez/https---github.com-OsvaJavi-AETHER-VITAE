@@ -1,0 +1,13 @@
+streamlit
+groq
+sentence-transformers
+transformers
+pandas
+numpy
+python-dotenv
+requests
+beautifulsoup4
+plotly
+torch
+scikit-learn
+tqdm

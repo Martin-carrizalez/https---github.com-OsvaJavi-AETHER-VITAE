@@ -1,0 +1,39 @@
+# Variables de entorno con API keys
+.env
+.env.local
+.env.production
+*.env
+
+# Archivos de datos
+data/*.csv
+data/*.json
+data/*.npy
+data/*.pkl
+!data/.gitkeep
+
+# Python
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.so
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Cache
+.cache/
+transformers_cache/

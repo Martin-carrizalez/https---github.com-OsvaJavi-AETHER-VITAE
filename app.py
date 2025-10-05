@@ -240,7 +240,7 @@ def main():
         st.markdown(f"""
         ### 📊 Estadísticas
         - **Total publicaciones**: {len(df):,}
-        - **Modelo LLM**: Llama 3.1 70B
+        - **Modelo LLM**: llama-3.3-70b-versatile
         - **Embeddings**: MiniLM-L6-v2
         - **Dimensión**: {embeddings.shape[1]}D
         """)

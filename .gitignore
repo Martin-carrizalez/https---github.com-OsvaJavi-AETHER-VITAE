@@ -11,6 +11,10 @@ data/*.npy
 data/*.pkl
 !data/.gitkeep
 
+# Archivos de credenciales de Google
+credentials.json
+token.pickle
+
 # Python
 venv/
 env/

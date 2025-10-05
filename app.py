@@ -23,7 +23,7 @@ st.set_page_config(
 
 # Constantes
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
-MODEL_NAME = 'llama-3.1-70b-versatile'
+MODEL_NAME = 'llama-3.3-70b-versatile'
 EMBEDDING_MODEL = 'all-MiniLM-L6-v2'
 
 # ============================================================================
